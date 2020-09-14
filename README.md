@@ -17,19 +17,16 @@ Here are some ideas to get you started:
 
 # Hey there! ou devo dizer, Olá!👋
 
-Me chamo Taylor, sou do Rio de Janeiro - Brasil, seja bem vindo ao meu perfil😎‍🇧🇷
+Me chamo Taylor, sou do Rio de Janeiro - seja bem vindo ao meu perfil😎‍🇧🇷
 
-atualmente trabalho como freelancer sendo com criações de wireframe e design gráfico como criações de identidade visuais da qual é  uma grande enfâse em um trabalho voltado para programação, pois o design é isso, ele se aplica em tudo que vemos, pois é tudo que sentimos.
+Atualmente trabalho como freelancer sendo desenvolvimentos de protótipos, wireframes e finalizando com aquele delicioso web design e acredito que com um bom café na mesa a mente se expande para novos conceitos e ênfase em um projeto😁
+Amo a área voltada para programação foi amor a primeira vista, e o sentimento é um sentimento no meu ponto de vista que abre grandes portas para inovação do mundo e com isso podemos dizer que podemos ir mais além do que achamos!
 
-No mundo da programação o conhecimento é ilimitado, além de ajudar a solucionar um problema a melhor parte é quando eu aprendo com alguém algo pois a parceria é a melhor solução para um destaque
-
-Meu conhecimento na área é:
+Conhecimento em: 
 
 •HTML 
 
 •CSS
-
-•Javascript
 
 •Adobe XD UX/UI
 
