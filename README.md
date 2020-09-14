@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 **<p align="center">Me chamo Taylor, sou do Rio de Janeiro - seja bem vindo ao meu perfil😎‍🇧🇷</p>**
 
-**PT**:Atualmente trabalho como freelancer sendo desenvolvedor de protótipos, wireframes e finalizando com aquele delicioso web design e acredito que com um bom café na mesa a mente se expande para novos conceitos e ênfase em um projeto😁
-Amo a área voltada para programação foi amor a primeira vista, e o sentimento é um sentimento no meu ponto de vista que força a abrir grandes portas para a inovação do mundo e com isso podemos dizer que o limite não existe, ir mais além do que achamos é o foco!
-Eu tenho um desejo enorme de me tornar um grande desenvolvedor web e claro com grande ajuda e aprendizado sei que irei alcançar meu propósito pois todo esforço não é em vão no final.
 
 
 **EN**: Hey there! I'm taylor, I come from Brazil - Rio de Janeiro, I'm a studiant and  an web designer, I work with prototypes development, I'm ever learning about the programmation to be a better full stack than currently, I believe that the knowledge is limitless so I'm ever searching and learning about all of the programmation 😊
