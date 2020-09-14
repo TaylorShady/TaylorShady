@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Taylor Shady</h1>
 
 
-**<p align="center">Me chamo Taylor, sou do Rio de Janeiro - seja bem vindo ao meu perfil😎‍🇧🇷</p>**
+**<p align="center">I'm Gladiston Taylon also know like as Taylor Shady😎‍🇧🇷</p>**
 
 
 
@@ -37,7 +37,7 @@ My skills:
 
 
 
-### 🌍 ""It is literally true that you can succeed best and quickest by helping others to succeed." –Napolean Hill" 🧠
+### 🌍 "It is literally true that you can succeed best and quickest by helping others to succeed." –Napolean Hill" 🧠
 
 
 **How to reach me** 👇🏼 
