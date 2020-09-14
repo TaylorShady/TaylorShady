@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Me chamo Taylor, sou do Rio de Janeiro - seja bem vindo ao meu perfil😎‍🇧🇷
 
 Atualmente trabalho como freelancer sendo desenvolvedor de protótipos, wireframes e finalizando com aquele delicioso web design e acredito que com um bom café na mesa a mente se expande para novos conceitos e ênfase em um projeto😁
-Amo a área voltada para programação foi amor a primeira vista, e o sentimento é um sentimento no meu ponto de vista força a abrir grandes portas para inovação do mundo e com isso podemos dizer que o limite não existe, ir mais além do que achamos!
+Amo a área voltada para programação foi amor a primeira vista, e o sentimento é um sentimento no meu ponto de vista que força a abrir grandes portas para a inovação do mundo e com isso podemos dizer que o limite não existe, ir mais além do que achamos é o foco!
 
 Conhecimento em: 
 
