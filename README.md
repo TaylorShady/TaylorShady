@@ -24,6 +24,8 @@ Amo a área voltada para programação foi amor a primeira vista, e o sentimento
 
 Conhecimento em: 
 
+•Front-End 
+
 •HTML 
 
 •CSS
