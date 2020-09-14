@@ -34,7 +34,7 @@ Conhecimento em:
 
 ### 🌍 "Reunir-se é um começo, permanecer juntos é um progresso, e trabalhar juntos é um sucesso. -Napoleon Hill" 🧠
 
-Engl: Hey there, my name Is Taylor, I come from Brazil - Rio de Janeiro, I work like as graphic and web Designer with prototyping and web design , for see more projects about me, just visit my  social network and enjoy that 😊
+Eng: Hey there, my name Is Taylor, I come from Brazil - Rio de Janeiro, I work like as graphic and web Designer with prototyping and web design , for see more projects about me, just visit my  social network and enjoy that 😊
 
 
 Para mais informações, estarei sempre aqui também 👇🏼
