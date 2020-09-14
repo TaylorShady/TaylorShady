@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-**EN**: Hey there! I'm taylor, I come from Brazil - Rio de Janeiro, I'm a studiant and  an web designer, I work with prototypes development, I'm ever learning about the programmation to be a better full stack than currently, I believe that the knowledge is limitless so I'm ever searching and learning about all of the programmation 😊
+**EN**: Hey there! I'm Taylon, I come from Brazil - Rio de Janeiro, I'm a studiant and  an web designer, I work with prototypes development, I'm ever learning about the programmation to be a better full stack than currently, I believe that the knowledge is limitless so I'm ever searching and learning about all of the programmation 😊
 
 
 My skills: 
