@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Me chamo Taylor, sou do Rio de Janeiro - Brasil, seja bem vindo ao meu perfil😎‍🇧🇷
 
-atualmente trabalho como freelancer sendo com criações de wireframe e design gráfico como criações de identidade visuais da qual da uma grande enfâse em um trabalho voltado para programação, pois o design é isso, ele se aplica em tudo que vemos, pois é tudo que sentimos.
+atualmente trabalho como freelancer sendo com criações de wireframe e design gráfico como criações de identidade visuais da qual é  uma grande enfâse em um trabalho voltado para programação, pois o design é isso, ele se aplica em tudo que vemos, pois é tudo que sentimos.
 
-No mundo da programação o conhecimento é ilimitado, então para alcançar o sucesso nessa área minha mente circula que será arduo o estudo e por isso estou aqui, para combater um bom combate e concluir a chegada.
+No mundo da programação o conhecimento é ilimitado, além de ajudar a solucionar um problema a melhor parte é quando eu aprendo com alguém algo pois a parceria é a melhor solução para um destaque
 
 Meu conhecimento na área é:
 
