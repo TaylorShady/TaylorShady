@@ -26,11 +26,14 @@ No mundo da programação o conhecimento é ilimitado, além de ajudar a solucio
 Meu conhecimento na área é:
 
 •HTML 
+
 •CSS
+
 •Javascript
+
 •Adobe XD UX/UI
 
-Sou o tipo de pessoa que está apito a me adapitar no problema, passar na resiliência e resolve-lo de forma totalmente 100%
+
 
 ### 🌍 "Reunir-se é um começo, permanecer juntos é um progresso, e trabalhar juntos é um sucesso. -Napoleon Hill" 🧠
 
