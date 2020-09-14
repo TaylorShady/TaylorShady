@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! ou devo dizer, Olá!👋
+<h1 align="center">Hi there 👋, I'm Taylor Shady</h1>
 
-Me chamo Taylor, sou do Rio de Janeiro - seja bem vindo ao meu perfil😎‍🇧🇷
+
+**<p align="center">Me chamo Taylor, sou do Rio de Janeiro - seja bem vindo ao meu perfil😎‍🇧🇷</p>**
 
 Atualmente trabalho como freelancer sendo desenvolvedor de protótipos, wireframes e finalizando com aquele delicioso web design e acredito que com um bom café na mesa a mente se expande para novos conceitos e ênfase em um projeto😁
 Amo a área voltada para programação foi amor a primeira vista, e o sentimento é um sentimento no meu ponto de vista que força a abrir grandes portas para a inovação do mundo e com isso podemos dizer que o limite não existe, ir mais além do que achamos é o foco!
@@ -26,13 +27,13 @@ Eu tenho um desejo enorme de me tornar um grande desenvolvedor web e claro com g
 
 Conhecimento em: 
 
-**•Front-End**
+- **•Front-End**
 
-**•HTML**
+- **•HTML**
 
-**•CSS**
+- **•CSS**
 
-**•Adobe XD UX/UI**
+- **•Adobe XD UX/UI**
 
 
 
