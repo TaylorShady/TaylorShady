@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 **EN**: Hey there! I'm taylor, I come from Brazil - Rio de Janeiro, I'm a studiant and  an web designer, I work with prototypes development, I'm ever learning about the programmation to be a better full stack than currently, I believe that the knowledge is limitless so I'm ever searching and learning about all of the programmation 😊
 
 
-Conhecimento em: 
+My skills: 
 
-- **•Front-End**
+- **•Front-end Developer**
 
 - **•HTML**
 
@@ -37,7 +37,7 @@ Conhecimento em:
 
 
 
-### 🌍 "Reunir-se é um começo, permanecer juntos é um progresso, e trabalhar juntos é um sucesso. -Napoleon Hill" 🧠
+### 🌍 ""It is literally true that you can succeed best and quickest by helping others to succeed." –Napolean Hill" 🧠
 
 
 **How to reach me** 👇🏼 
