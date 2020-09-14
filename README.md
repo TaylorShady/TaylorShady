@@ -40,13 +40,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylorshady/)](https://www.linkedin.com/in/taylorshady/) 
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/TaylorShadyDesigner/)](https://www.facebook.com/TaylorShadyDesigner/) 
-
-[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/TaylorShady/)](https://dribbble.com/TaylorShady/) 
-
-[![Behance Badge](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.behance.net/TaylorShady/)](https://www.behance.net/TaylorShady) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylorshady/)](https://www.linkedin.com/in/taylorshady/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/TaylorShadyDesigner/)](https://www.facebook.com/TaylorShadyDesigner/) [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/TaylorShady/)](https://dribbble.com/TaylorShady/) [![Behance Badge](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.behance.net/TaylorShady/)](https://www.behance.net/TaylorShady) 
 
 
 
