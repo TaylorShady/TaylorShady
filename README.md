@@ -1,4 +1,4 @@
-### Hi there 👋
+ #Hello World👋
 
 <!--
 **TaylorShady/TaylorShady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Hey there! Ou devo dizer, Olá! tudo ótimo me chamo taylor sou do Rio de Janeiro - Brasil, 
+
+
+◆Thanks for visiting. 
+
+◆Enjoy it!! o/
