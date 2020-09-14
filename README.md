@@ -30,15 +30,13 @@ Meu conhecimento na área é:
 •Javascript
 •Adobe XD UX/UI
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+Sou o tipo de pessoa que está apito a me adapitar no problema, passar na resiliência e resolve-lo de forma totalmente 100%
 
-### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+### 🌍 "Reunir-se é um começo, permanecer juntos é um progresso, e trabalhar juntos é um sucesso. -Napoleon Hill" 🧠
 
-- 📍 From RS living in Beagah
-- 💻 Front-End engineer at [Avenue Code](https://www.avenuecode.com/)
-- 🌈 Sharing a little of my Front-End journey at [Papo de Dev](https://www.instagram.com/papodedev/) 
 
-Reach me out 👇🏼
+
+Para mais informações, estarei sempre aqui também 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylorshady/)](https://www.linkedin.com/in/taylorshady/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/TaylorShadyDesigner/)](https://www.facebook.com/TaylorShadyDesigner/) [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/TaylorShady/)](https://dribbble.com/TaylorShady/) [![Behance Badge](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.behance.net/TaylorShady/)](https://www.behance.net/TaylorShady) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+21+986494164_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+21+986494164_de_telefone&text=Hello!)
