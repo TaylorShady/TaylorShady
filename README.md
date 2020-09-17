@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 
 
+**PT**: Olá! Sou Taylon, sou do Rio de Janeiro, atualmente estudando programação e web designer, trabalho com desenvolvimento de protótipos como wireframes e layouts como front-end, estou sempre aprendendo sobre a programação para ser um ótimo full stack, acredito que o o conhecimento é ilimitado, então estou sempre pesquisando e aprendendo sobre tudo relacionado a tecnologia da informação 😊
+
+
+
 **EN**: Hey there! I'm Taylon, I from Brazil - Rio de Janeiro, I'm a studiant and a web designer, I work with prototypes development, I'm ever learning about the programmation to be a better full stack than currently, I believe that the knowledge is limitless so I'm ever searching and learning about all of the programmation 😊
 
 
